@@ -34,6 +34,9 @@ CarbonTracker is a Flutter mobile application designed to help users track their
 
 ## API Documentation
 
+### Postman Workspace link:
+> https://www.postman.com/lunar-eclipse-399093/workspace/crud-rest-api/collection/25230658-28aac32c-6028-416b-91ff-61b38bf8b8c3?action=share&creator=25230658
+
 ### 1. WAQI Air Quality Index API
 - Provides real-time air quality index (AQI) data.
 - Integration allows users to access AQI information for their location and nearby places.
